@@ -1,0 +1,3 @@
+"The quick brown fox jumps over the lazy dog." is a sentence that contains all the letters of the alphabet. It is used to test typewriters and computer keyboards, display fonts, and other applications involving text where the use of all letters in the alphabet is desired.
+
+This is a classic English sentence often used for testing fonts and typing skills. It contains all the letters of the alphabet.
